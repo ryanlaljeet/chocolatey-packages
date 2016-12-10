@@ -129,7 +129,7 @@ rem /disablepush</ExecutePreCommand>
     <FileHippoId />
     <LastUpdated>2014-11-29T03:19:51.6974925+09:00</LastUpdated>
     <TargetPath>C:\Chocolatey\_work\</TargetPath>
-    <FixedDownloadUrl>http://softlayer-sng.dl.sourceforge.net/project/freefilesync/FreeFileSync/{version}/FreeFileSync_{version}_Windows_Setup.exe</FixedDownloadUrl>
+    <FixedDownloadUrl>http://www.freefilesync.org/download/FreeFileSync_{version}_Windows_Setup.exe</FixedDownloadUrl>
     <Name>freefilesync</Name>
   </ApplicationJob>
 </Jobs>
